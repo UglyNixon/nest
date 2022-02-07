@@ -10,3 +10,4 @@ async function start () {
         console.log(`Server start on PORT ${PORT}`)
     })
 }
+start()
